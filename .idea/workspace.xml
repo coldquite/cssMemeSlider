@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c6e0bc9-8bc8-4fc0-afa7-da0f3d40e05c" name="Changes" comment="init: start cssMemeSlider-task (Fri, Sep 5, 2024 9:49:50 PM)">
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/media/blinking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/media/doge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/media/fire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/media/ok.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/media/roll.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/meme_db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cssMemeSlider/slider.js" afterDir="false" />
+    <list default="true" id="5c6e0bc9-8bc8-4fc0-afa7-da0f3d40e05c" name="Changes" comment="feat: add pics db and slider's skeleton (Fri, Sep 6, 2024 10:46:43 AM)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cssMemeSlider/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemeSlider/slider.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +87,7 @@
       <updated>1725565539562</updated>
       <workItem from="1725565540696" duration="107000" />
       <workItem from="1725565652808" duration="5657000" />
-      <workItem from="1725608858669" duration="3343000" />
+      <workItem from="1725608858669" duration="5884000" />
     </task>
     <task id="LOCAL-00001" summary="init: start cssMemeSlider-task (Fri, Sep 5, 2024 9:49:50 PM)">
       <option name="closed" value="true" />
@@ -105,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725565814373</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: add pics db and slider's skeleton `LANG=en_EN date +'(%a, %b %d, %Y %r)'`">
+      <option name="closed" value="true" />
+      <created>1725612293526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725612293526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +123,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init: start cssMemeSlider-task (Fri, Sep 5, 2024 9:49:50 PM)" />
-    <option name="LAST_COMMIT_MESSAGE" value="init: start cssMemeSlider-task (Fri, Sep 5, 2024 9:49:50 PM)" />
+    <MESSAGE value="init: start cssMemeSlider-task (Thu, Sep 5, 2024 9:49:50 PM)" />
+    <MESSAGE value="feat: add pics db and slider's skeleton (Fri, Sep 6, 2024 10:46:43 AM)" />
+    <MESSAGE value="init: start cssMemeSlider-task (Thu, Sep 5, 2024 9:49:50 PM)" />
+    <MESSAGE value="feat: add pics db and slider's skeleton (Fri, Sep 6, 2024 10:46:43 AM)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add pics db and slider's skeleton (Fri, Sep 6, 2024 10:46:43 AM)" />
   </component>
 </project>
