@@ -71,3 +71,14 @@ body {
     transition: 0.5s ease;
 }
 
+@media (max-width: 768px) {
+    .slider-menu {
+        padding-top: 3.5%;
+        gap: 3.5%;
+        flex-direction: column-reverse;
+    }
+
+    .slider-title {
+        align-self: flex-start;
+    }
+}

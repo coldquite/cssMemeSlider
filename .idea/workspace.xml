@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c6e0bc9-8bc8-4fc0-afa7-da0f3d40e05c" name="Changes" comment="feat: add hover effect (Fri, Sep 6, 2024 12:46:06 AM)">
+    <list default="true" id="5c6e0bc9-8bc8-4fc0-afa7-da0f3d40e05c" name="Changes" comment="feat: add click effect (Fri, Sep 6, 2024 12:55:23 AM)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cssMemeSlider/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemeSlider/slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cssMemeSlider/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemeSlider/slider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <updated>1725565539562</updated>
       <workItem from="1725565540696" duration="107000" />
       <workItem from="1725565652808" duration="5657000" />
-      <workItem from="1725608858669" duration="11265000" />
+      <workItem from="1725608858669" duration="11506000" />
     </task>
     <task id="LOCAL-00001" summary="init: start cssMemeSlider-task (Fri, Sep 5, 2024 9:49:50 PM)">
       <option name="closed" value="true" />
@@ -122,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725619600767</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: add click effect (Fri, Sep 6, 2024 12:55:23 AM)">
+      <option name="closed" value="true" />
+      <created>1725620129570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725620129570</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +153,7 @@
     <MESSAGE value="feat: add pics db and slider's skeleton (Fri, Sep 6, 2024 10:46:43 AM)" />
     <MESSAGE value="fix: change pagination realization and rewrite elements sizes (Fri, Sep 6, 2024 11:29:31 AM)" />
     <MESSAGE value="feat: add hover effect (Fri, Sep 6, 2024 12:46:06 AM)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add hover effect (Fri, Sep 6, 2024 12:46:06 AM)" />
+    <MESSAGE value="feat: add click effect (Fri, Sep 6, 2024 12:55:23 AM)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add click effect (Fri, Sep 6, 2024 12:55:23 AM)" />
   </component>
 </project>
