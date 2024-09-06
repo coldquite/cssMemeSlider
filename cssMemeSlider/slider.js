@@ -48,5 +48,15 @@ window.addEventListener('DOMContentLoaded', () => {
         })
     })
 
+    buttonDivs.forEach((buttonDiv) => {
+        buttonDiv.addEventListener('click', () => {
+            if (buttonDiv !== activeButtonDiv) {
+                changeButtonDivActive(activeButtonDiv, buttonDiv)
+                activeButtonDiv = buttonDiv;
 
+                let obj = db[buttonDivs.indexOf(activeButtonDiv)];
+                updateSlider(pic, text, obj);
+            }
+        })
+    })
 })

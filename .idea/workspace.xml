@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c6e0bc9-8bc8-4fc0-afa7-da0f3d40e05c" name="Changes" comment="fix: change pagination realization and rewrite elements sizes (Fri, Sep 6, 2024 11:29:31 AM)">
+    <list default="true" id="5c6e0bc9-8bc8-4fc0-afa7-da0f3d40e05c" name="Changes" comment="feat: add hover effect (Fri, Sep 6, 2024 12:46:06 AM)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cssMemeSlider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemeSlider/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cssMemeSlider/meme_db.js" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemeSlider/meme_db.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cssMemeSlider/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemeSlider/slider.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cssMemeSlider/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/cssMemeSlider/slider.js" afterDir="false" />
     </list>
@@ -90,7 +88,7 @@
       <updated>1725565539562</updated>
       <workItem from="1725565540696" duration="107000" />
       <workItem from="1725565652808" duration="5657000" />
-      <workItem from="1725608858669" duration="10698000" />
+      <workItem from="1725608858669" duration="11265000" />
     </task>
     <task id="LOCAL-00001" summary="init: start cssMemeSlider-task (Fri, Sep 5, 2024 9:49:50 PM)">
       <option name="closed" value="true" />
@@ -116,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725614987789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add hover effect (Fri, Sep 6, 2024 12:46:06 AM)">
+      <option name="closed" value="true" />
+      <created>1725619600767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725619600767</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +145,7 @@
     <MESSAGE value="init: start cssMemeSlider-task (Thu, Sep 5, 2024 9:49:50 PM)" />
     <MESSAGE value="feat: add pics db and slider's skeleton (Fri, Sep 6, 2024 10:46:43 AM)" />
     <MESSAGE value="fix: change pagination realization and rewrite elements sizes (Fri, Sep 6, 2024 11:29:31 AM)" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: change pagination realization and rewrite elements sizes (Fri, Sep 6, 2024 11:29:31 AM)" />
+    <MESSAGE value="feat: add hover effect (Fri, Sep 6, 2024 12:46:06 AM)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add hover effect (Fri, Sep 6, 2024 12:46:06 AM)" />
   </component>
 </project>
